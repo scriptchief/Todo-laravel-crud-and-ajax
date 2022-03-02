@@ -17,7 +17,7 @@ Başlarken
 - veritabanını migrate etmelisiniz. 
 
 - Veritabanı laravel için utf8_general_ci olarak ayarlandı farklı yöntem kullanılacaksa,
-config/database.php dosyasından türü değiştirilmeli değiştir.
+config/database.php dosyasından türü değiştirilmeli.
 
 
 
